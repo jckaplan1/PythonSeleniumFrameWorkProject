@@ -1,0 +1,303 @@
+2021-04-19 14:22:42,344 - root - INFO - ************Test_001_login************
+2021-04-19 14:22:42,345 - root - INFO - ************Verifying HomePageTitle************
+2021-04-19 14:22:42,522 - root - INFO - ************Verifying Loginpage************
+2021-04-19 14:22:47,299 - root - INFO - ************Homepage title test passed************
+2021-04-19 15:38:04,243 - root - INFO - ************Test_001_login************
+2021-04-19 15:38:04,244 - root - INFO - ************Verifying HomePageTitle************
+2021-04-19 15:38:05,838 - root - INFO - ************Verifying Loginpage************
+2021-04-19 15:38:12,872 - root - INFO - ************Homepage title test passed************
+2021-04-19 15:39:10,075 - root - INFO - ************Verifying Loginpage************
+2021-04-19 15:41:40,530 - root - INFO - ************Verifying Loginpage************
+2021-04-19 15:48:04,406 - root - INFO - ************Verifying Loginpage************
+2021-04-19 15:50:50,075 - root - INFO - ************Verifying Loginpage************
+2021-04-19 15:52:03,015 - root - INFO - ************Verifying Loginpage************
+2021-04-19 15:53:28,472 - root - INFO - ************Verifying Loginpage************
+2021-04-19 15:55:44,032 - root - INFO - ************Verifying Loginpage************
+2021-04-19 15:58:59,594 - root - INFO - ************Verifying Loginpage************
+2021-04-19 16:08:07,069 - root - INFO - ************Verifying Loginpage************
+2021-04-19 16:09:08,469 - root - INFO - ************Verifying Loginpage************
+2021-04-19 16:15:08,791 - root - INFO - ************Verifying Loginpage************
+2021-04-19 16:16:22,095 - root - INFO - ************Verifying Loginpage************
+2021-04-19 16:18:06,508 - root - INFO - ************Verifying Loginpage************
+2021-04-19 16:19:56,363 - root - INFO - ************Verifying Loginpage************
+2021-04-19 16:20:10,933 - root - INFO - *****Passed
+2021-04-19 16:20:12,362 - root - INFO - ***Loging DDT Pass***
+2021-04-19 16:22:12,341 - root - INFO - ************Verifying Loginpage************
+2021-04-19 16:22:38,965 - root - INFO - *****Passed
+2021-04-19 16:23:25,003 - root - INFO - ************Verifying Loginpage************
+2021-04-19 16:23:38,076 - root - INFO - *****Passed
+2021-04-19 16:23:38,819 - root - INFO - ***Loging DDT Pass***
+2021-04-19 16:23:42,681 - root - INFO - ***pass
+2021-04-19 16:23:42,681 - root - INFO - ***Loging DDT Pass***
+2021-04-19 16:23:46,806 - root - INFO - ***pass
+2021-04-19 16:23:46,806 - root - INFO - ***Loging DDT Pass***
+2021-04-19 16:23:52,014 - root - INFO - *****Passed
+2021-04-19 16:23:52,680 - root - INFO - ***Loging DDT Pass***
+2021-04-19 16:27:01,364 - root - INFO - ************Verifying Loginpage************
+2021-04-19 16:27:12,687 - root - INFO - *****Passed
+2021-04-19 16:27:13,454 - root - INFO - ***Loging DDT Pass***
+2021-04-19 16:27:17,046 - root - INFO - ***pass
+2021-04-19 16:27:17,047 - root - INFO - ***Loging DDT Pass***
+2021-04-19 16:27:20,612 - root - INFO - ***pass
+2021-04-19 16:27:20,612 - root - INFO - ***Loging DDT Pass***
+2021-04-19 16:27:25,668 - root - INFO - *****Passed
+2021-04-19 16:27:27,221 - root - INFO - ***Loging DDT Pass***
+2021-04-19 16:29:19,553 - root - INFO - ************Verifying Loginpage************
+2021-04-19 16:29:30,975 - root - INFO - *****Passed
+2021-04-19 16:29:31,904 - root - INFO - ***Loging DDT Pass***
+2021-04-19 16:31:23,738 - root - INFO - ************Verifying Loginpage************
+2021-04-19 16:31:35,240 - root - INFO - *****Passed
+2021-04-19 16:31:39,930 - root - INFO - ***pass
+2021-04-19 16:31:43,462 - root - INFO - ***pass
+2021-04-19 16:31:48,458 - root - INFO - *****Passed
+2021-04-19 18:37:59,910 - root - INFO - ************Verifying Loginpage************
+2021-04-19 18:38:13,693 - root - INFO - *****Passed
+2021-04-19 18:38:18,147 - root - INFO - ***pass
+2021-04-19 18:38:21,714 - root - INFO - ***pass
+2021-04-19 18:38:27,147 - root - INFO - *****Passed
+2021-04-19 18:39:44,883 - root - INFO - ************Verifying Loginpage************
+2021-04-19 18:39:56,418 - root - INFO - *****Passed
+2021-04-19 18:40:00,879 - root - INFO - ***pass
+2021-04-19 18:40:04,861 - root - INFO - ***pass
+2021-04-19 18:40:10,303 - root - INFO - *****Passed
+2021-04-19 19:03:22,615 - root - INFO - ************Verifying Loginpage************
+2021-04-19 19:04:22,925 - root - INFO - ************Verifying Loginpage************
+2021-04-19 19:05:05,038 - root - INFO - ************Verifying Loginpage************
+2021-04-19 19:05:19,792 - root - INFO - *****Passed
+2021-04-19 19:05:24,164 - root - INFO - ***pass
+2021-04-19 19:05:27,691 - root - INFO - ***pass
+2021-04-19 19:05:32,894 - root - INFO - *****Passed
+2021-04-19 19:09:00,834 - root - INFO - ************Verifying Loginpage************
+2021-04-19 19:09:59,379 - root - INFO - ************Verifying Loginpage************
+2021-04-19 19:10:12,860 - root - INFO - *****Passed
+2021-04-19 19:10:17,168 - root - INFO - ***pass
+2021-04-19 19:10:20,755 - root - INFO - ***pass
+2021-04-19 19:10:26,039 - root - INFO - *****Passed
+2021-04-19 19:10:26,758 - root - INFO - ***Loging DDT Pass***
+2021-04-19 19:11:07,181 - root - INFO - ************Verifying Loginpage************
+2021-04-19 19:11:19,049 - root - INFO - *****Passed
+2021-04-19 19:13:32,989 - root - INFO - ************Verifying Loginpage************
+2021-04-19 19:13:50,295 - root - INFO - *****Passed
+2021-04-19 19:13:55,054 - root - INFO - ***pass
+2021-04-19 19:17:18,467 - root - INFO - ************Verifying Loginpage************
+2021-04-19 19:17:36,525 - root - INFO - *****Passed
+2021-04-19 19:18:32,884 - root - INFO - ************Verifying Loginpage************
+2021-04-19 19:18:46,701 - root - INFO - *****Passed
+2021-04-19 19:19:32,230 - root - INFO - ************Verifying Loginpage************
+2021-04-19 19:19:46,499 - root - INFO - *****Passed
+2021-04-19 19:19:50,846 - root - INFO - ***pass
+2021-04-19 19:19:54,368 - root - INFO - ***pass
+2021-04-19 19:19:59,242 - root - INFO - *****Passed
+2021-04-19 19:19:59,917 - root - INFO - ***Loging DDT Pass***
+2021-04-19 19:20:25,060 - root - INFO - ************Verifying Loginpage************
+2021-04-19 19:20:36,405 - root - INFO - *****Passed
+2021-04-19 19:21:30,187 - root - INFO - ************Verifying Loginpage************
+2021-04-19 19:21:43,578 - root - INFO - *****Passed
+2021-04-19 19:21:48,177 - root - INFO - ***pass
+2021-04-19 19:21:51,738 - root - INFO - ***pass
+2021-04-19 19:21:56,668 - root - INFO - *****Passed
+2021-04-19 19:21:57,290 - root - INFO - ***Loging DDT Pass***
+2021-04-19 19:22:27,196 - root - INFO - ************Verifying Loginpage************
+2021-04-19 19:22:39,073 - root - INFO - *****Passed
+2021-04-19 19:22:43,140 - root - INFO - ***pass
+2021-04-19 19:22:46,666 - root - INFO - ***pass
+2021-04-19 19:22:51,628 - root - INFO - *****Passed
+2021-04-19 19:22:52,226 - root - INFO - ***Loging DDT Pass***
+2021-04-19 19:23:23,293 - root - INFO - ************Verifying Loginpage************
+2021-04-19 19:23:35,040 - root - INFO - *****Passed
+2021-04-19 19:23:39,405 - root - INFO - ***pass
+2021-04-19 19:24:03,284 - root - INFO - ************Verifying Loginpage************
+2021-04-19 19:24:14,828 - root - INFO - *****Passed
+2021-04-19 19:24:19,396 - root - INFO - ***pass
+2021-04-19 19:24:23,217 - root - INFO - ***pass
+2021-04-19 19:24:28,054 - root - INFO - *****Passed
+2021-04-19 19:24:28,610 - root - INFO - ***Loging DDT Pass***
+2021-04-19 19:27:32,651 - root - INFO - ************Verifying Loginpage************
+2021-04-19 19:27:44,185 - root - INFO - *****Passed
+2021-04-19 19:27:48,542 - root - INFO - ***pass
+2021-04-19 19:27:52,194 - root - INFO - ***pass
+2021-04-19 19:27:57,559 - root - INFO - *****Passed
+2021-04-19 19:27:58,443 - root - INFO - ***Loging DDT Pass***
+2021-04-19 19:35:23,530 - root - INFO - ************Verifying Loginpage************
+2021-04-19 19:35:34,987 - root - INFO - *****Passed
+2021-04-20 10:11:35,634 - root - INFO - ************Verifying Loginpage************
+2021-04-20 10:11:51,674 - root - INFO - *****Passed
+2021-04-20 10:12:01,330 - root - INFO - ***pass
+2021-04-20 10:12:05,112 - root - INFO - ***pass
+2021-04-20 10:12:10,404 - root - INFO - *****Passed
+2021-04-20 10:12:11,114 - root - INFO - ***Loging DDT Pass***
+2021-04-20 10:13:59,042 - root - INFO - ************Verifying Loginpage************
+2021-04-20 10:14:11,075 - root - INFO - *****Passed
+2021-04-20 10:14:56,000 - root - INFO - ************Verifying Loginpage************
+2021-04-20 10:15:08,694 - root - INFO - *****Passed
+2021-04-20 10:19:06,563 - root - INFO - ************Verifying Loginpage************
+2021-04-20 10:19:18,792 - root - INFO - *****Passed
+2021-04-20 10:19:23,313 - root - INFO - ***pass
+2021-04-20 10:19:26,881 - root - INFO - ***pass
+2021-04-20 10:19:32,032 - root - INFO - *****Passed
+2021-04-20 10:19:32,690 - root - INFO - ***Loging DDT Pass***
+2021-04-20 10:20:06,208 - root - INFO - ************Verifying Loginpage************
+2021-04-20 10:20:18,540 - root - INFO - *****Passed
+2021-04-20 10:20:22,943 - root - INFO - ***pass
+2021-04-20 10:20:26,539 - root - INFO - ***pass
+2021-04-20 10:20:31,511 - root - INFO - *****Passed
+2021-04-20 10:20:32,253 - root - INFO - ***Loging DDT Pass***
+2021-04-20 15:27:53,914 - root - INFO - *************Test_003_AddCustomer*********
+2021-04-20 15:33:20,859 - root - INFO - *************Test_003_AddCustomer*********
+2021-04-20 15:34:08,871 - root - INFO - *************Test_003_AddCustomer*********
+2021-04-20 15:38:46,863 - root - INFO - *************Test_003_AddCustomer*********
+2021-04-20 15:44:02,668 - root - INFO - *************Test_003_AddCustomer*********
+2021-04-20 15:44:57,530 - root - INFO - *************Test_003_AddCustomer*********
+2021-04-20 15:46:09,932 - root - INFO - *************Test_003_AddCustomer*********
+2021-04-20 15:46:46,563 - root - INFO - *************login successful*********
+2021-04-20 15:46:46,563 - root - INFO - ************Starting Add Customer*********
+2021-04-21 10:25:53,726 - root - INFO - *************Test_003_AddCustomer*********
+2021-04-21 10:26:07,855 - root - INFO - *************login successful*********
+2021-04-21 10:26:07,855 - root - INFO - ************Starting Add Customer*********
+2021-04-21 10:26:11,854 - root - INFO - ************Providing Customer Information*********
+2021-04-21 10:27:58,101 - root - INFO - *************Test_003_AddCustomer*********
+2021-04-21 10:28:08,613 - root - INFO - *************login successful*********
+2021-04-21 10:28:08,613 - root - INFO - ************Starting Add Customer*********
+2021-04-21 10:28:12,605 - root - INFO - ************Providing Customer Information*********
+2021-04-21 10:42:21,114 - root - INFO - *************Test_003_AddCustomer*********
+2021-04-21 10:42:32,520 - root - INFO - *************login successful*********
+2021-04-21 10:42:32,521 - root - INFO - ************Starting Add Customer*********
+2021-04-21 10:42:36,679 - root - INFO - ************Providing Customer Information*********
+2021-04-21 10:43:42,857 - root - INFO - *************Test_003_AddCustomer*********
+2021-04-21 10:43:56,726 - root - INFO - *************login successful*********
+2021-04-21 10:43:56,726 - root - INFO - ************Starting Add Customer*********
+2021-04-21 10:44:00,612 - root - INFO - ************Providing Customer Information*********
+2021-04-21 10:47:58,950 - root - INFO - *************Test_003_AddCustomer*********
+2021-04-21 10:48:17,113 - root - INFO - *************login successful*********
+2021-04-21 10:48:17,113 - root - INFO - ************Starting Add Customer*********
+2021-04-21 10:48:21,732 - root - INFO - ************Providing Customer Information*********
+2021-04-21 10:48:38,358 - root - INFO - ************Saving Customer Information*********
+2021-04-21 10:50:04,388 - root - INFO - *************Test_003_AddCustomer*********
+2021-04-21 10:50:15,616 - root - INFO - *************login successful*********
+2021-04-21 10:50:15,617 - root - INFO - ************Starting Add Customer*********
+2021-04-21 10:50:19,596 - root - INFO - ************Providing Customer Information*********
+2021-04-21 10:50:22,660 - root - INFO - ************Saving Customer Information*********
+2021-04-21 10:52:34,290 - root - INFO - *************Test_003_AddCustomer*********
+2021-04-21 10:52:45,018 - root - INFO - *************login successful*********
+2021-04-21 10:52:45,018 - root - INFO - ************Starting Add Customer*********
+2021-04-21 10:52:48,385 - root - INFO - ************Providing Customer Information*********
+2021-04-21 10:52:51,642 - root - INFO - ************Saving Customer Information*********
+2021-04-21 10:53:22,109 - root - INFO - *************Test_003_AddCustomer*********
+2021-04-21 10:53:31,826 - root - INFO - *************login successful*********
+2021-04-21 10:53:31,826 - root - INFO - ************Starting Add Customer*********
+2021-04-21 10:53:38,680 - root - INFO - ************Providing Customer Information*********
+2021-04-21 10:53:42,357 - root - INFO - ************Saving Customer Information*********
+2021-04-21 10:54:13,630 - root - INFO - *************Test_003_AddCustomer*********
+2021-04-21 10:54:29,301 - root - INFO - *************Test_003_AddCustomer*********
+2021-04-21 10:54:41,426 - root - INFO - *************login successful*********
+2021-04-21 10:54:41,426 - root - INFO - ************Starting Add Customer*********
+2021-04-21 10:54:44,861 - root - INFO - ************Providing Customer Information*********
+2021-04-21 10:54:49,033 - root - INFO - ************Saving Customer Information*********
+2021-04-21 11:01:12,007 - root - INFO - *************Test_003_AddCustomer*********
+2021-04-21 11:01:26,794 - root - INFO - *************login successful*********
+2021-04-21 11:01:26,794 - root - INFO - ************Starting Add Customer*********
+2021-04-21 11:01:30,614 - root - INFO - ************Providing Customer Information*********
+2021-04-21 11:02:30,325 - root - INFO - *************Test_003_AddCustomer*********
+2021-04-21 11:02:42,138 - root - INFO - *************login successful*********
+2021-04-21 11:02:42,138 - root - INFO - ************Starting Add Customer*********
+2021-04-21 11:02:45,674 - root - INFO - ************Providing Customer Information*********
+2021-04-21 11:03:22,919 - root - INFO - *************Test_003_AddCustomer*********
+2021-04-21 11:03:41,522 - root - INFO - *************login successful*********
+2021-04-21 11:03:41,523 - root - INFO - ************Starting Add Customer*********
+2021-04-21 11:03:45,456 - root - INFO - ************Providing Customer Information*********
+2021-04-21 11:04:28,443 - root - INFO - *************Test_003_AddCustomer*********
+2021-04-21 11:04:46,756 - root - INFO - *************login successful*********
+2021-04-21 11:04:46,757 - root - INFO - ************Starting Add Customer*********
+2021-04-21 11:04:51,328 - root - INFO - ************Providing Customer Information*********
+2021-04-21 11:11:03,819 - root - INFO - *************Test_003_AddCustomer*********
+2021-04-21 11:11:18,649 - root - INFO - *************login successful*********
+2021-04-21 11:11:18,649 - root - INFO - ************Starting Add Customer*********
+2021-04-21 11:11:22,394 - root - INFO - ************Providing Customer Information*********
+2021-04-21 11:12:08,080 - root - INFO - *************Test_003_AddCustomer*********
+2021-04-21 11:12:18,361 - root - INFO - *************login successful*********
+2021-04-21 11:12:18,362 - root - INFO - ************Starting Add Customer*********
+2021-04-21 11:12:22,682 - root - INFO - ************Providing Customer Information*********
+2021-04-21 11:13:50,003 - root - INFO - *************Test_003_AddCustomer*********
+2021-04-21 11:14:00,676 - root - INFO - *************login successful*********
+2021-04-21 11:14:00,676 - root - INFO - ************Starting Add Customer*********
+2021-04-21 11:14:03,606 - root - INFO - ************Providing Customer Information*********
+2021-04-21 11:14:15,937 - root - INFO - *************Test_003_AddCustomer*********
+2021-04-21 11:14:26,917 - root - INFO - *************login successful*********
+2021-04-21 11:14:26,918 - root - INFO - ************Starting Add Customer*********
+2021-04-21 11:14:30,911 - root - INFO - ************Providing Customer Information*********
+2021-04-21 13:05:55,457 - root - INFO - *************Test_003_AddCustomer*********
+2021-04-21 13:06:07,287 - root - INFO - *************login successful*********
+2021-04-21 13:06:07,287 - root - INFO - ************Starting Add Customer*********
+2021-04-21 13:06:12,021 - root - INFO - ************Providing Customer Information*********
+2021-04-21 13:07:39,080 - root - INFO - *************Test_003_AddCustomer*********
+2021-04-21 13:07:51,598 - root - INFO - *************login successful*********
+2021-04-21 13:07:51,600 - root - INFO - ************Starting Add Customer*********
+2021-04-21 13:07:55,910 - root - INFO - ************Providing Customer Information*********
+2021-04-21 13:08:03,351 - root - INFO - ************Saving Customer Information*********
+2021-04-21 13:10:36,755 - root - INFO - *************Test_003_AddCustomer*********
+2021-04-21 13:10:49,387 - root - INFO - *************login successful*********
+2021-04-21 13:10:49,387 - root - INFO - ************Starting Add Customer*********
+2021-04-21 13:10:53,600 - root - INFO - ************Providing Customer Information*********
+2021-04-21 13:11:00,867 - root - INFO - ************Saving Customer Information*********
+2021-04-21 13:12:15,777 - root - INFO - *************Test_003_AddCustomer*********
+2021-04-21 13:12:28,427 - root - INFO - *************login successful*********
+2021-04-21 13:12:28,428 - root - INFO - ************Starting Add Customer*********
+2021-04-21 13:12:32,940 - root - INFO - ************Providing Customer Information*********
+2021-04-21 13:12:43,049 - root - INFO - ************Saving Customer Information*********
+2021-04-21 13:12:55,760 - root - INFO - *************Test_003_AddCustomer*********
+2021-04-21 13:13:06,770 - root - INFO - *************login successful*********
+2021-04-21 13:13:06,771 - root - INFO - ************Starting Add Customer*********
+2021-04-21 13:13:11,590 - root - INFO - ************Providing Customer Information*********
+2021-04-21 13:13:21,630 - root - INFO - ************Saving Customer Information*********
+2021-04-21 13:14:19,588 - root - INFO - *************Test_003_AddCustomer*********
+2021-04-21 13:14:32,106 - root - INFO - *************login successful*********
+2021-04-21 13:14:32,106 - root - INFO - ************Starting Add Customer*********
+2021-04-21 13:14:35,845 - root - INFO - ************Providing Customer Information*********
+2021-04-21 13:14:45,897 - root - INFO - ************Saving Customer Information*********
+2021-04-21 13:15:21,226 - root - INFO - *************Test_003_AddCustomer*********
+2021-04-21 13:15:32,332 - root - INFO - *************login successful*********
+2021-04-21 13:15:32,332 - root - INFO - ************Starting Add Customer*********
+2021-04-21 13:15:36,869 - root - INFO - ************Providing Customer Information*********
+2021-04-21 13:15:46,826 - root - INFO - ************Saving Customer Information*********
+2021-04-21 13:16:59,893 - root - INFO - *************Test_003_AddCustomer*********
+2021-04-21 13:17:10,391 - root - INFO - *************login successful*********
+2021-04-21 13:17:10,392 - root - INFO - ************Starting Add Customer*********
+2021-04-21 13:17:14,162 - root - INFO - ************Providing Customer Information*********
+2021-04-21 13:17:23,821 - root - INFO - ************Saving Customer Information*********
+2021-04-21 13:17:51,273 - root - INFO - *************Test_003_AddCustomer*********
+2021-04-21 13:18:01,837 - root - INFO - *************login successful*********
+2021-04-21 13:18:01,837 - root - INFO - ************Starting Add Customer*********
+2021-04-21 13:18:05,772 - root - INFO - ************Providing Customer Information*********
+2021-04-21 13:18:16,112 - root - INFO - ************Saving Customer Information*********
+2021-04-21 13:22:17,487 - root - INFO - *************Test_003_AddCustomer*********
+2021-04-21 13:22:32,392 - root - INFO - *************login successful*********
+2021-04-21 13:22:32,392 - root - INFO - ************Starting Add Customer*********
+2021-04-21 13:22:35,716 - root - INFO - ************Providing Customer Information*********
+2021-04-21 13:22:46,027 - root - INFO - ************Saving Customer Information*********
+2021-04-21 13:23:44,391 - root - INFO - *************Test_003_AddCustomer*********
+2021-04-21 13:23:54,939 - root - INFO - *************login successful*********
+2021-04-21 13:23:54,940 - root - INFO - ************Starting Add Customer*********
+2021-04-21 13:23:59,259 - root - INFO - ************Providing Customer Information*********
+2021-04-21 13:24:09,458 - root - INFO - ************Saving Customer Information*********
+2021-04-21 13:26:28,722 - root - INFO - *************Test_003_AddCustomer*********
+2021-04-21 13:26:43,333 - root - INFO - *************login successful*********
+2021-04-21 13:26:43,333 - root - INFO - ************Starting Add Customer*********
+2021-04-21 13:26:46,887 - root - INFO - ************Providing Customer Information*********
+2021-04-21 13:26:56,998 - root - INFO - ************Saving Customer Information*********
+2021-04-21 13:28:28,244 - root - INFO - *************Test_003_AddCustomer*********
+2021-04-21 13:28:42,485 - root - INFO - *************login successful*********
+2021-04-21 13:28:42,485 - root - INFO - ************Starting Add Customer*********
+2021-04-21 13:28:46,091 - root - INFO - ************Providing Customer Information*********
+2021-04-21 13:28:56,474 - root - INFO - ************Saving Customer Information*********
+2021-04-21 13:34:44,148 - root - INFO - *************Test_003_AddCustomer*********
+2021-04-21 13:34:54,731 - root - INFO - *************login successful*********
+2021-04-21 13:34:54,732 - root - INFO - ************Starting Add Customer*********
+2021-04-21 13:34:58,960 - root - INFO - ************Providing Customer Information*********
+2021-04-21 13:35:09,024 - root - INFO - ************Saving Customer Information*********
+2021-04-21 13:35:09,024 - root - INFO - ************Verifying Customer validation*********
+2021-04-21 13:35:09,361 - root - INFO - ************Add Customer Passed*********
+2021-04-22 12:45:14,860 - root - INFO - ***********searchCustomerByName***********
+2021-04-22 12:45:26,421 - root - INFO - ***********Starting searchCustomer ByName***********
+2021-04-22 12:50:54,039 - root - INFO - ***********searchCustomerByName***********
+2021-04-22 12:51:05,102 - root - INFO - ***********Starting searchCustomer ByName***********
+2021-04-22 12:51:09,319 - root - INFO - ***********Test_searchCustomerByName_005 finished ***********
