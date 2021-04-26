@@ -6,6 +6,7 @@ from utilities import XLUtils
 from  pageOpjects.loginPage import Login
 from pageOpjects.addCustommerPage import AddCustomer
 import time
+import pytest
 
 class Test_003_AddCustomer():
     baseurl = ReadConfig.getApplicationUrl()
@@ -13,6 +14,7 @@ class Test_003_AddCustomer():
     password = ReadConfig.getPassword()
     logger = LogGen.loggen()
 
+    @pytest.mark.sanity
     def test_addCustomer(self,setup):
         self.logger.info("*************Test_003_AddCustomer*********")
         self.driver = setup

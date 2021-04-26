@@ -13,6 +13,8 @@ class Test_searchCustomerByName_005:
     password = ReadConfig.getPassword()
     logger = LogGen.loggen()
 
+    @pytest.mark.sanity
+    @pytest.mark.regression
     def test_searchCustomerByName(self,setup):
         self.driver = setup
         self.logger.info("***********searchCustomerByName***********")
@@ -35,9 +37,18 @@ class Test_searchCustomerByName_005:
         self.sc.clickSearch()
         time.sleep(3)
         status  = self.sc.searchCustomerByName('Steve Gates')
-        assert True == status
-        self.logger.info("***********Test_searchCustomerByName_005 finished ***********")
-        self.driver.close()
+        # print(status,'statusss')
+        if status:
+            assert True
+            self.logger.info("***********Test_searchCustomerByName_005 finished ***********")
+            self.driver.close()
+        else:
+            self.logger.info("***********Test_searchCustomerByName_005 failed ***********")
+            self.driver.close()
+            assert False
+
+
+
 
 
 

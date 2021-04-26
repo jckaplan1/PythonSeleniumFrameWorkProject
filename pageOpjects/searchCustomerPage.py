@@ -36,22 +36,33 @@ class SearchCustomer():
 
 
     def searchCustomerByEmail(self,email):
-        flag = False
-        for r in range(1,self.numberOfRows()+1):
-            table = self.driver.find_element_by_xpath(self.table_xpath)
-            emailid = table.find_element_by_xpath("//table[@id='customers-grid']/tbody/tr["+str(r)+"]/td[2]").text
-            if emailid == email:
-                flag =True
-                break
-        return flag
+        try:
+            flag = False
+            for r in range(1, self.numberOfRows() + 1):
+                table = self.driver.find_element_by_xpath(self.table_xpath)
+                emailid = self.driver.find_element_by_xpath(
+                    "//table[@id='customers-grid']/tbody/tr[" + str(r) + "]/td[2]").text
+                if emailid == email:
+                    flag = True
+                    break
+            return flag
+        except:
+            print("This email is not in the list.")
+
 
     def searchCustomerByName(self,name):
-        flag = False
-        for r in range(1,self.numberOfRows()+1):
-            table = self.driver.find_element_by_xpath(self.table_xpath)
-            nameid = table.find_element_by_xpath("//table[@id='customers-grid']/tbody/tr["+str(r)+"]/td[3]").text
-            if nameid == name:
-                flag =True
-                break
-        return flag
+        try:
+            flag = False
+            for r in range(1, self.numberOfRows() + 1):
+                table = self.driver.find_element_by_xpath(self.table_xpath)
+                nameid = self.driver.find_element_by_xpath(
+                    "//table[@id='customers-grid']/tbody/tr[" + str(r) + "]/td[3]").text
+                if nameid == name:
+                    flag = True
+                    break
+
+            return flag
+        except:
+            print("This name is not in the list")
+
 

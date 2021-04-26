@@ -20,6 +20,7 @@ class Test_002DDT_login:
     """ Excel file path"""
     path = ".\\TestData\\login.xlsx"
 
+    @pytest.mark.regression
     def test_login_valid_ddt(self,setup):
         self.logger.info('************Verifying Loginpage************')
         self.driver = setup

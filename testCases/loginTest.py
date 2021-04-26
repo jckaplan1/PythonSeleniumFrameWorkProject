@@ -16,6 +16,8 @@ class Test_001_login:
     logger = LogGen.loggen()
 
     """" Verifying Home page """
+
+    @pytest.mark.regression
     def test_home_page(self,setup):
         self.logger.info("************Test_001_login************")
         self.logger.info('************Verifying HomePageTitle************')
@@ -33,6 +35,9 @@ class Test_001_login:
             assert False
 
     """" Verifying login validation """
+
+    @pytest.mark.sanity
+    @pytest.mark.regression
     def test_login_valid(self,setup):
         self.logger.info('************Verifying Loginpage************')
         self.driver = setup
