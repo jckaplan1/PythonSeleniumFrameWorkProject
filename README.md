@@ -1,2 +1,2 @@
 # PythonSeleniumFrameWorkProject
-In this project, test cases testing is automated by using Python and Selenium.
+In this project, test cases testing is automated using Python and Selenium.
